@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Yenilenebilir Enerji Santralları Yönetim Sistemi
 
 Bu proje, yenilenebilir enerji santrallerinin (rüzgar, güneş, hidroelektrik) yönetimi ve üretim takibi için geliştirilmiş modern bir web uygulamasıdır.
@@ -187,3 +188,7 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 Proje Sahibi - [GitHub Profiliniz]
 
 Proje Link: [https://github.com/kullaniciadi/YenilenebilirEnerji](https://github.com/kullaniciadi/YenilenebilirEnerji) 
+=======
+# YenilenebilirEnerji
+Yenilenebilir Enerji Santralları Yönetim Sistemi .NET Core Web API ve React frontend ile geliştirilmiş modern enerji santrali yönetim uygulaması
+>>>>>>> 1f60c6502caccc4c1f391daa4bbaf136e67fcd23
